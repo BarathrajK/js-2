@@ -1,3 +1,3 @@
-// date
-var d = new Date();
-document.getElementById("p").innerHTML= d.getTime();
+// get date set date
+let d=new Date;
+d.get Time()
